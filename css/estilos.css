@@ -12,9 +12,21 @@ body{
     margin: 0 auto;
     border: 1px solid darkgray;
     text-align: left;
-    padding: 1em;
+    padding: 0;
 }
 
 #container h1{
     font-size: 20px;
+}
+
+#cabecera{
+    background-color: dodgerblue;
+    color: whitesmoke;
+    padding: 1em;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#post{
+    padding: 1em;
 }
