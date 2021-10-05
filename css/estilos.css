@@ -1,4 +1,5 @@
 body{
+    background-color: #283747 ;
     text-align: center;
     font-family: "Arial";
     color: #333;
@@ -8,6 +9,7 @@ body{
 }
 
 #container{
+    background-color: honeydew;
     width: 70%;
     margin: 0 auto;
     border: 1px solid darkgray;
@@ -20,7 +22,7 @@ body{
 }
 
 #cabecera{
-    background-color: dodgerblue;
+    background-color: #2874A6;
     color: whitesmoke;
     padding: 1em;
     font-weight: bold;
@@ -29,4 +31,9 @@ body{
 
 #post{
     padding: 1em;
+}
+
+#logo{
+    width: 30px;
+    vertical-align: middle;
 }
