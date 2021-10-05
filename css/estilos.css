@@ -36,4 +36,12 @@ body{
 #logo{
     width: 30px;
     vertical-align: middle;
+
+}
+
+#footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: darkgray;
+    padding: 0.5em;
 }
