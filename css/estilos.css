@@ -45,3 +45,7 @@ body{
     background-color: darkgray;
     padding: 0.5em;
 }
+
+img{
+    width: 100%;
+}
