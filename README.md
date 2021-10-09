@@ -6,5 +6,6 @@ Mi primer blog
 - Y concreta
 - Amigable
 - Legible
+- Clara
 
 > Gracias por visitardos
