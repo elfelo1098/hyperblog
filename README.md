@@ -5,5 +5,7 @@ Mi primer blog
 - Entendible
 - Y concreta
 - Amigable
+- Legible
+- Clara
 
 > Gracias por visitardos
