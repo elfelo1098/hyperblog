@@ -4,5 +4,6 @@ Mi primer blog
 - muy buena info
 - Entendible
 - Y concreta
+- Amigable
 
 > Gracias por visitardos
